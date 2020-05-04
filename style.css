@@ -1,0 +1,128 @@
+.login{
+	margin: auto;
+	padding-top: 200px;
+}
+.login2{
+	border :1px solid;
+	background: #FF4500;
+}
+.header img{
+    margin-bottom: 6px;
+    width: 1350px;
+}
+.kiri{
+    float:left;
+}
+.kanan{
+    float: left;
+    width: 600px;
+}
+.button{
+    background: #ff4500;
+    border: 1px solid #ff4500;
+    color: #fff;
+}
+.link{
+        color: #000;
+}
+.button:hover{
+    background: #fff;
+    color: #FF4500;
+    font-weight: bold;
+}
+.opsi{
+    background: #ff4500;
+    color: #fff;
+    text-align: center;
+    width: 85px;
+}
+.tcari{
+    height: 25px;
+    width: 900px;
+    margin-bottom: 10px;
+}
+.bcari{
+    background: #FF4500;
+    border: 1px solid #FF4500;
+    height: 32px;
+    width: 79px;
+    color: #fff;
+    font-size: 16px;
+}
+.bcari:hover{
+    background: #fff;
+    color: #FF4500;
+    font-weight: bold;
+}
+.back{
+    background: #FF4500;
+    /* border-right: #1c1c1b; */
+    color: #FFF;
+    font-weight: normal;
+}
+.tabel th{
+    color: #fff;
+    background: #FF4500;
+}
+a{
+    text-decoration: none;
+    color: #FF4500;
+}
+a:hover{
+    font-weight: bold;
+}
+.clear{
+    clear: both;
+}
+.judul{
+    font-size: 22px;
+    color: #ff4500;
+    font-weight: bold;
+}
+.menu2{
+    background: #FF4500;
+    width: 175px;
+    padding-bottom: 1px;
+    padding-top: 8px;
+    color: #fff;
+    padding-left: 9px;
+}
+.menu2 a{
+    color: #fff;
+    text-decoration: none;
+}
+.menu2 a:hover{
+    font-weight: bold;
+}
+.menu{
+    background: #FF4500;
+    width: 175px;
+    padding-bottom: 20px;
+    padding-top: 8px;
+    color: #fff;
+}
+.submenu{
+    border: 1px solid;
+    background: #ffF;
+    margin: -18px 6px 6px 1px;
+}
+.submenu a{
+    text-decoration: none;
+    color: #FF4500;
+}
+.submenu a:hover{
+    font-weight: bold;
+}
+.konten{
+    
+}
+.footer{
+    background: #FF4500;
+    width: 1350px;
+    margin-top: 10px;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    height: 22px;
+    padding-top: 5px;
+}
